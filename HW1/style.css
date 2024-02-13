@@ -1,0 +1,69 @@
+.web-header {
+  color: black;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+.text {
+  text-align: center;
+  color: white;
+  font-size: large;
+}
+.bg-image {
+  background-repeat: none;
+  background-position: cover;
+  overflow-x: hidden;
+}
+h1 {
+  text-align: center;
+
+  color: white;
+}
+h3 {
+  text-align: center;
+  color: rgba(211, 207, 207, 0.849);
+  font-size: x-large;
+}
+.padded {
+  padding-left: 6em;
+  padding-right: 6em;
+}
+
+.games:hover {
+  transform: scale(1.2);
+}
+h4 {
+  color: white;
+  text-align: center;
+  font-size: larger;
+}
+.bg-image2 {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.fancy {
+  font-size: 70px;
+  font-weight: 600;
+  background-image: radial-gradient(#f00d6b, #070592e5);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+.social:hover {
+  transform: scale(1.2);
+}
+
+.social {
+  background-position: right;
+}
